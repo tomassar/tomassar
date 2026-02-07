@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋
+
+My name is Tomás, and I'm a Software Engineer interested in distributed systems, Go, open source and startups
+
+- 🔭 I’m currently working for an US fintech company leading its expansion efforts into LATAM
+- 👨‍🏫 I’m currently teaching Distributed Systems at a chilean university 
+- 👯 I’m looking to collaborate on open source projects related to networks and AI
 
 <!--
 **tomassar/tomassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

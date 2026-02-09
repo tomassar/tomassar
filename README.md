@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Tomás Sarmiento profile views](https://u8views.com/api/v1/github/profiles/71415654/views/day-week-month-total-count.svg)](https://u8views.com/github/tomassar)
